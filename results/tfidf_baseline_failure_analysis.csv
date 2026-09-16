@@ -1,0 +1,9 @@
+customer_text,true_intent,predicted_intent,failure_mode,review_status
+"@GloCare ur ad said ""New and existing customers"". Honesty is required in little things like ad and public announcements. #NotSatisfied",bonus_or_promotion_issue,sim_or_device_issue,lexical_or_sparse_training_data,needs_manual_review
+Hi @GloCare I'm having issues migrating to generation G tarrif plan... I need your help. Please what's the right code?,data_plan_issue,account_or_general_support,intent_boundary_data_plan_vs_account,needs_manual_review
+@GloCare this is notification I got.  Please I want out. https://t.co/Y92JJBipRJ,non_actionable_or_context_required,network_issue,lexical_trigger_network,needs_manual_review
+@GloCare my number is 09053588233 kindly reactivate,voice_or_line_issue,non_actionable_or_context_required,low_information_message,needs_manual_review
+@GloCare  I still can't use my data. You told me that the issues will be resolved. I even got a text that it has. What use is my data then?,data_issue,data_plan_issue,intent_boundary_data_vs_data_plan,needs_manual_review
+@GloCare you can determine the efficiency of a network by its customer service...*Smh...*phew*,non_actionable_or_context_required,network_issue,lexical_trigger_network,needs_manual_review
+@GloCare good afternoon.... how can I do glo CUG and how much?,account_or_general_support,data_plan_issue,intent_boundary_account_vs_data_plan,needs_manual_review
+@GloCare hello !! I have tried making some transfer of airtime to another Glo SIM registered but have had the process failed pls resolve ASAP 08152895409,recharge_or_airtime_issue,sim_or_device_issue,intent_boundary_recharge_vs_sim_device,needs_manual_review

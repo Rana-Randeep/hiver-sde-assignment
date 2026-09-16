@@ -1,0 +1,6 @@
+customer_tweet_id,customer_text,brand_responses,review_bucket,response_count,final_candidate_intent,reason
+46215,"@GloCare Pls, I've 4g phone with glo sim. Do I have to swap my sim for 4g sim to be able to access 4g LTE  for browsing? Thanks.",@126254 Please note that to enjoy the 4G service your device needs to be a  band 28 4G device. UO,data_plan_candidate|sim_device_candidate,1,,
+49720,"@GloCare This is the SIM serial no. 892__credit_card__F, PUK is 21140051 and my alternative number is 08187728101.",@127128 We apologize for any inconvenience you may have experienced.The complaint has been escalated. Thank you. UO.,account_general_candidate|data_plan_candidate|sim_device_candidate,1,,
+49723,"its enough to 10 SIM pack, but why this stress. My number is 07054443008.
+Abeg i dey beg you...@GloCare","@127128 We apologize. Please provide the new sim serial number, PUK no and alternate number. UO",account_general_candidate|data_plan_candidate|sim_device_candidate,1,,
+49734,@GloCare Thanks a lot. It have been resolved and my sim given 3.2GB.,@127130 Thank you for the feedback. Stay Unlimited. UO.,data_plan_candidate|sim_device_candidate,1,,

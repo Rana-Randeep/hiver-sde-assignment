@@ -1,0 +1,7 @@
+boundary_a,boundary_b,overlap_count
+account_general_candidate,data_plan_candidate,9
+account_general_candidate,voice_line_candidate,4
+account_general_candidate,sim_device_candidate,3
+data_plan_candidate,voice_line_candidate,4
+data_plan_candidate,sim_device_candidate,4
+voice_line_candidate,sim_device_candidate,1

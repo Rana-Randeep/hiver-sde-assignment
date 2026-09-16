@@ -1,0 +1,25 @@
+{
+  "dataset": "results\\pilot_training_labels.csv",
+  "num_examples": 100,
+  "num_intents": 10,
+  "training_accuracy": 1.0,
+  "model": "TF-IDF + Logistic Regression",
+  "configuration": {
+    "vectorizer": {
+      "type": "TfidfVectorizer",
+      "lowercase": true,
+      "ngram_range": [
+        1,
+        2
+      ],
+      "min_df": 1,
+      "max_features": 10000
+    },
+    "classifier": {
+      "type": "LogisticRegression",
+      "max_iter": 2000,
+      "class_weight": "balanced"
+    }
+  },
+  "warning": "This is training-set performance only. It must not be reported as held-out evaluation performance."
+}

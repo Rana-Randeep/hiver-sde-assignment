@@ -1,0 +1,22 @@
+customer_text,true_intent,predicted_intent
+"@GloCare ur ad said ""New and existing customers"". Honesty is required in little things like ad and public announcements. #NotSatisfied",bonus_or_promotion_issue,sim_or_device_issue
+@GloCare I wish to welcome back one of my CUG lines with a missing sim pack. I'll need help as regards to that.,sim_or_device_issue,sim_or_device_issue
+"@GloCare 08112062696,pls if you guys have registered me on any of your shenanigans pls kindly undo it",data_plan_issue,data_plan_issue
+Hi @GloCare I'm having issues migrating to generation G tarrif plan... I need your help. Please what's the right code?,data_plan_issue,account_or_general_support
+@GloCare this is notification I got.  Please I want out. https://t.co/Y92JJBipRJ,non_actionable_or_context_required,network_issue
+@GloCare my number is 09053588233 kindly reactivate,voice_or_line_issue,non_actionable_or_context_required
+@GloCare  I still can't use my data. You told me that the issues will be resolved. I even got a text that it has. What use is my data then?,data_issue,data_plan_issue
+@GloCare my number is 0805 820 6931,non_actionable_or_context_required,non_actionable_or_context_required
+@GloCare you can determine the efficiency of a network by its customer service...*Smh...*phew*,non_actionable_or_context_required,network_issue
+@GloCare good afternoon.... how can I do glo CUG and how much?,account_or_general_support,data_plan_issue
+@GloCare Thank you,non_actionable_or_context_required,non_actionable_or_context_required
+@GloCare 08055149642,non_actionable_or_context_required,non_actionable_or_context_required
+@GloCare . I misplaced my glo sim but luckily I found it back but it was already deactivated.... please help me,sim_or_device_issue,sim_or_device_issue
+"@GloCare your network has been fluctuating since monday at Okota, Isolo LGA, Lagos. 
+ Probably a POP site is down. Kindly investigate..",network_issue,network_issue
+@GloCare 08113545232,non_actionable_or_context_required,non_actionable_or_context_required
+@GloCare hello !! I have tried making some transfer of airtime to another Glo SIM registered but have had the process failed pls resolve ASAP 08152895409,recharge_or_airtime_issue,sim_or_device_issue
+@GloCare 08117888988,non_actionable_or_context_required,non_actionable_or_context_required
+@GloCare pls I got dis immediately I switched on my fone. Didnt send any SMS n why I was charged N35 for SMS which I have no idea https://t.co/olKeH2ciKj,unauthorized_charge_or_vas,unauthorized_charge_or_vas
+@GloCare 08119489191,non_actionable_or_context_required,non_actionable_or_context_required
+"@117627 @GloCare Good evening.. Am a GLO customer from Jeddo, Okpe local government Area, Delta state .  I am having big challenge with your network for the pass 4months.  In every month I will not have network to browse for 10 days and I subscribe every month.",network_issue,network_issue

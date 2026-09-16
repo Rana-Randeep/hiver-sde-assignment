@@ -1,0 +1,19 @@
+{
+  "evaluation_set_size": 156,
+  "relevance_scale": {
+    "0": "irrelevant",
+    "1": "somewhat_relevant",
+    "2": "clearly_relevant"
+  },
+  "counts": {
+    "irrelevant": 32,
+    "somewhat_relevant": 27,
+    "clearly_relevant": 97,
+    "useful": 124
+  },
+  "metrics": {
+    "clearly_relevant_rate": 0.6218,
+    "useful_retrieval_rate": 0.7949,
+    "mean_relevance": 1.4167
+  }
+}

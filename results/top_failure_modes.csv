@@ -1,0 +1,6 @@
+﻿rank,failure_mode,count,rate,definition
+1,low_confidence_prediction,156,1.0,Classifier confidence below 0.50.
+2,intent_misclassification,96,0.6154,Predicted intent differs from golden intent.
+3,escalation_false_positive,54,0.3462,System escalated an example marked as not requiring human escalation.
+4,generic_reply_signal,29,0.1859,Reply relies on generic information requests rather than directly addressing the issue.
+5,unsupported_claim_signal,5,0.0321,Reply contains language suggesting unsupported live/internal action or state.

@@ -1,0 +1,14 @@
+,precision,recall,f1-score,support
+account_or_general_support,1.0,1.0,1.0,5.0
+bonus_or_promotion_issue,1.0,1.0,1.0,4.0
+data_issue,1.0,1.0,1.0,5.0
+data_plan_issue,1.0,1.0,1.0,10.0
+network_issue,1.0,1.0,1.0,12.0
+non_actionable_or_context_required,1.0,1.0,1.0,39.0
+recharge_or_airtime_issue,1.0,1.0,1.0,6.0
+sim_or_device_issue,1.0,1.0,1.0,9.0
+unauthorized_charge_or_vas,1.0,1.0,1.0,7.0
+voice_or_line_issue,1.0,1.0,1.0,3.0
+accuracy,1.0,1.0,1.0,1.0
+macro avg,1.0,1.0,1.0,100.0
+weighted avg,1.0,1.0,1.0,100.0

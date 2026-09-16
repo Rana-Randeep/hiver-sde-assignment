@@ -1,0 +1,11 @@
+actual_intent,account_or_general_support,bonus_or_promotion_issue,data_issue,data_plan_issue,network_issue,non_actionable_or_context_required,recharge_or_airtime_issue,sim_or_device_issue,unauthorized_charge_or_vas,voice_or_line_issue
+account_or_general_support,0,0,0,0,0,1,0,2,0,1
+bonus_or_promotion_issue,0,3,0,2,0,0,1,4,2,0
+data_issue,0,0,4,5,6,0,0,3,0,0
+data_plan_issue,1,0,2,15,2,3,0,0,1,0
+network_issue,0,0,2,5,18,1,1,0,1,0
+non_actionable_or_context_required,0,0,0,1,1,2,0,2,0,0
+recharge_or_airtime_issue,1,0,0,3,0,3,3,2,2,0
+sim_or_device_issue,0,1,0,3,1,1,0,6,0,0
+unauthorized_charge_or_vas,3,1,1,5,4,4,1,0,8,0
+voice_or_line_issue,1,0,0,0,2,1,1,2,3,1

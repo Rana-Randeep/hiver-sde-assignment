@@ -1,0 +1,89 @@
+{
+  "dataset": "results\\pilot_training_labels.csv",
+  "total_examples": 100,
+  "training_examples": 80,
+  "validation_examples": 20,
+  "random_state": 42,
+  "stratified": true,
+  "baseline": "majority_class",
+  "majority_intent": "non_actionable_or_context_required",
+  "accuracy": 0.4,
+  "macro_f1": 0.05714285714285714,
+  "weighted_f1": 0.22857142857142856,
+  "classification_report": {
+    "account_or_general_support": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 1.0
+    },
+    "bonus_or_promotion_issue": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 1.0
+    },
+    "data_issue": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 1.0
+    },
+    "data_plan_issue": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 2.0
+    },
+    "network_issue": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 2.0
+    },
+    "non_actionable_or_context_required": {
+      "precision": 0.4,
+      "recall": 1.0,
+      "f1-score": 0.5714285714285714,
+      "support": 8.0
+    },
+    "recharge_or_airtime_issue": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 1.0
+    },
+    "sim_or_device_issue": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 2.0
+    },
+    "unauthorized_charge_or_vas": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 1.0
+    },
+    "voice_or_line_issue": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 1.0
+    },
+    "accuracy": 0.4,
+    "macro avg": {
+      "precision": 0.04,
+      "recall": 0.1,
+      "f1-score": 0.05714285714285714,
+      "support": 20.0
+    },
+    "weighted avg": {
+      "precision": 0.16,
+      "recall": 0.4,
+      "f1-score": 0.22857142857142856,
+      "support": 20.0
+    }
+  },
+  "note": "Trivial majority-class baseline on the same pilot validation split."
+}

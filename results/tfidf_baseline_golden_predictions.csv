@@ -1,0 +1,176 @@
+golden_id,customer_tweet_id,customer_text,golden_intent,predicted_intent,correct
+G001,1936686,"@GloCare so I recharged yesterday and I didn't get my usual bumba bonus, please why, 08117626261",bonus_or_promotion_issue,sim_or_device_issue,False
+G002,2092919,@glocare pls I migrated to Glo jumbo and recharged. I've been given bonus but couldn't use it to call. help,bonus_or_promotion_issue,bonus_or_promotion_issue,True
+G003,1972746,"@GloCare please if I recharge my jumbo SIM, for existing subscriber , will my money be taking or will it still remain on my main balance",data_plan_issue,data_issue,False
+G004,1024681,"@GloCare  Could you please send me the steps to recharge my Glo numbers using Ecobank Bank, Wuse 2 Abuja, Nigeria.",recharge_or_airtime_issue,sim_or_device_issue,False
+G005,2582778,"@GloCare pls i don't know how this pre-loaded airtime works,  cus I bought a new sim and recharged but didn't see any bonus",bonus_or_promotion_issue,sim_or_device_issue,False
+G006,1885085,"@GloCare,@117627, I've lodged complain that I've not been able to call out except the customer care line, and I can't recharge on my phone",voice_or_line_issue,unauthorized_charge_or_vas,False
+G007,734481,"@GloCare please you guys should help me check my line as I was awarded 500mb after I recharged but I'm been deducted from my Normal data subscription which really isn't suppose to be so, this is the number 08058976647",bonus_or_promotion_issue,unauthorized_charge_or_vas,False
+G008,1735825,"@GloCare I hav a lot of data&amp;call bonus,but's still charged frm my main balance Wen calln/browsn. &amp; #124#, #124*1# no longa work 08113877114",bonus_or_promotion_issue,unauthorized_charge_or_vas,False
+G009,493087,@232561 @117627 @GloCare UPDATE!!! They've Deducted N10 From The 980 Again.. N1k Airtime Just This Morning Now Down To N970.. https://t.co/LWukklgbxv,unauthorized_charge_or_vas,non_actionable_or_context_required,False
+G010,2474624,"@GloCare My sister recharged and subscribed for glo data plan of N1000 on the 10th, airtime value was deducted but haven't received data paid for, pls resolve asap.",data_plan_issue,data_plan_issue,True
+G011,2267327,"@117627 @659903 Since @GloCare won't take my calls please why is #100 taken from my account daily when I have not subscribed for data or any glo services. I bought this line on Thursday 9th Nov., 2017",unauthorized_charge_or_vas,unauthorized_charge_or_vas,True
+G012,2490259,"@GloCare @117627 Number-07052632663
+Device type- infinix hot note x551
+Location- Akwa Ibom state university, Ikot Akpaden, Mkpat enin, Akwa ibom state
+Error message- emergency
+Signal- No signal
+Alternate numbers- 08128059629...08147428657",network_issue,network_issue,True
+G013,1371022,Lol prople dey para oo. Hahhahahahaaha. Oya @GloCare kindly stop any VAS service and callertunes oo. They have abused me for being too patient with u. I asked a question and yet to get an answer. How can i get my number across without dropping it on timeline? https://t.co/z5KKf4KEq9,unauthorized_charge_or_vas,data_plan_issue,False
+G014,2358305,@GloCare I can't browse check your network,data_issue,network_issue,False
+G015,296363,@GloCare Why am I charged for airtime not used?,recharge_or_airtime_issue,non_actionable_or_context_required,False
+G016,2380426,@GloCare old how can a customer check his data account? Thanks,data_plan_issue,non_actionable_or_context_required,False
+G017,974051,@GloCare 07057789957....pls check why the money I recharged for auto renew was deducted without any apparent msg on d deduction,unauthorized_charge_or_vas,unauthorized_charge_or_vas,True
+G018,120114,@GloCare u give sending me sms dat my network signal issues has being resolved I said u deducted money 08055451220 work on this pls,unauthorized_charge_or_vas,network_issue,False
+G019,2330303,"@GloCare 08119242743,no network  bars atall,and went it comes up,i can't mk calls not even browse  wit it, Ajah, Lagos, Moba town etiosa lga",network_issue,network_issue,True
+G020,16086,@GloCare it has become obvious dat my units are taken illegally. I recharged 300 last week never called for even a minute but yesterday...,unauthorized_charge_or_vas,network_issue,False
+G021,793275,"@GloCare, i can't browse with Glo, but same setting, is what am browsing on Mtn, we love ur network more than other, kindly do something pls",data_issue,network_issue,False
+G022,745771,"@GloCare I have made complaints severally on how glo deducts my airtym,yet nothing was done abt. I will never patronize ur useless network again",unauthorized_charge_or_vas,network_issue,False
+G023,1258137,@GloCare network been switching off &amp; on. It has been completely off for a while now &amp; I can't even call customercare pls help 07053337908,network_issue,network_issue,True
+G024,2764089,"Dear customer, your subscription of CHOLESTROL's gpa cannot be renewed due to insufficient balance. @117627 @GloCare CANCEL. I did not subscribe to it. #Fraud.",unauthorized_charge_or_vas,data_plan_issue,False
+G025,2651022,"@GloCare Hello. It's an office line, it's for calls only. I told you it does not support browsing. Kindly tell me i you can refund the airtime or not. This is taking too long",recharge_or_airtime_issue,unauthorized_charge_or_vas,False
+G026,2330300,"@GloCare 08119242743,no network  bars atall, and wen it come back, i can't mk use it, and I just renewed my data,Ajah Lagos, Moba town, etiosa lga.yesterday till now, techno j8 boom",network_issue,data_issue,False
+G027,496767,@GloCare earlier this week i used the 2442 DND code given to me by one of ur agents nw am getting msgs 4 a service i didnt subscribe 4 with my airtime deducted 4 said service Again!!!,unauthorized_charge_or_vas,unauthorized_charge_or_vas,True
+G028,2817931,"@GloCare Please check again, Firstly 400 naira was deducted, I loaded 100 naira, no deduction, 500 naira was loaded, and the last 100 naira was deducted, why deducting from the 1000 naira, and why is 20 naira still remaining",unauthorized_charge_or_vas,unauthorized_charge_or_vas,True
+G029,2159663,"@GloCare The number is 08050630693, HTC M8, Igbeti in olorunsogo LG OYO state, 3G network failure and also kindly note that we experience incessant network outage due power failure ( some times 4 days in a week) since Dec 2016, several complaint but still same .",network_issue,network_issue,True
+G030,2724779,"@GloCare @117627 Stop emphasizing with mee. I've provided you with the number - +234 807 683 5245 - not fewer than 3times. Afterwards, you still resubscribed mee to the unsolicited services and deducted my money. @104856 @117626 @7475 @104937 @120330 @127588 @562660",unauthorized_charge_or_vas,non_actionable_or_context_required,False
+G031,2651024,"@GloCare Would he/they refund the airtime?  I have used the live chat portal, still on Twitter, now Mail. If @GloCare  cannot provide the needed​ assistance, i think you should just tell me. I'm new on the network. I wouldn't want​ to waste my time and effort chasing after the wind.",recharge_or_airtime_issue,data_plan_issue,False
+G032,788938,@GloCare  okk. I've sent in my complaint,non_actionable_or_context_required,non_actionable_or_context_required,True
+G033,209546,@GloCare Yet to receive my N100. Pls refund!,non_actionable_or_context_required,data_plan_issue,False
+G034,496751,@117627 @GloCare Please confirm if 08118280516 is 4G simcard,sim_or_device_issue,non_actionable_or_context_required,False
+G035,1931789,@GloCare how does one transfer credit from one phone to another?,recharge_or_airtime_issue,recharge_or_airtime_issue,True
+G036,1964647,Please and please epp my solution @GloCare  this your network is crawling 😭😭,network_issue,network_issue,True
+G037,1138796,@GloCare please is glo me2u not functioning again? I want to transfer credit,recharge_or_airtime_issue,account_or_general_support,False
+G038,2765226,@GloCare Though 2G can't be reached.... I can be reached on my 3G phone on 08053355365,network_issue,network_issue,True
+G039,1122587,@GloCare I have restarted my phone a million times. It's not a restart problem. It's a network problem. It's back now though,network_issue,recharge_or_airtime_issue,False
+G040,2345094,"@GloCare I have done all these your device tyre ,off and on,restart your device and change to 3G only all these these did not work...even one your guys told me the fault is from your end .common its talking long for christsake",network_issue,data_plan_issue,False
+G041,209818,"@GloCare We are having difficulties using your network for the past two days now. We can't check balance, we are having call drops and the worst is",network_issue,network_issue,True
+G042,2391726,@GloCare  OK,non_actionable_or_context_required,sim_or_device_issue,False
+G043,2092975,@GloCare No improvement yet pls.,network_issue,data_plan_issue,False
+G044,2414073,"@GloCare Hello my subscription was stopped days before it was supposed to expire,called your customer care twice stayed on the phone for 22 minutes no response.",data_plan_issue,data_plan_issue,True
+G045,474020,@GloCare @227840 Wetin happen. You guys are charging me for iflix after using for less than 60 days. Kilode? Iflix finished my last day subscription I didn't notice until I resubscribed and saw data dropping fast as I use iflix. Please what's the rule? 08051891193.,unauthorized_charge_or_vas,data_plan_issue,False
+G046,2782505,"@GloCare Hello guys. I bought a SIM this afternoon, registered it at a GLO Dealer outlet. I was promised that it be activated in 1 hour but I am yet to see activation. Kindly let me know what to do...",sim_or_device_issue,sim_or_device_issue,True
+G047,2470834,@117627  Data service is just too poor. @GloCare please tell me how are you grandmasters of data. This tweet was sent using @5566 network,data_issue,data_plan_issue,False
+G048,2395492,@145588 @7693 @117627 @GloCare Please to inform you @117627 &amp; @145588 that your data connectivity in Apete by Yidi Road is worst that has imprisoned me and outcast my update on news as the data network needs 2b improve in d area please to allow me enjoy my data,network_issue,data_plan_issue,False
+G049,2414077,"@GloCare there's no flooding network in some areas of Ado-Ekiti. From Ijigbo Junction up to Oke Ureje is a complete black spot. No network at all both for call and data. Please,  I have a good spot to erect your master if this will resolve the issues. It's very bad. Please assist",network_issue,network_issue,True
+G050,317832,"@GloCare Please I'm not talking about data bonus. I'm talking about credit bonus, the one you check with #122*2#
+Read my tweet well",bonus_or_promotion_issue,bonus_or_promotion_issue,True
+G051,2910699,"@GloCare I borrowed #200 and recharged #400 card, and bought #200 data only for glo to deduct #100 from my account again. My number is 07054544145.",unauthorized_charge_or_vas,unauthorized_charge_or_vas,True
+G052,584005,"@GloCare my mobile #08159821678...I just recharge 1400 - was goin to load anoda 1100 so I can activate d (5gb) 2500 data plan, pls is there anything u can do to help?",data_plan_issue,data_plan_issue,True
+G053,2409934,"@GloCare please I need u assist me. When ever they are is money on you used to deduct it and I can remember subscribing to any news, advert or any",unauthorized_charge_or_vas,data_plan_issue,False
+G054,209665,"@GloCare Please check my combo bundle balance for Int'l calls for 1000k subscription bcoz anytime I check through *777#,#122*1# no ans nr 07059646781",data_plan_issue,non_actionable_or_context_required,False
+G055,471935,@GloCare @117627 Please why can’t I buy internet data? Been trying this since last night?,data_plan_issue,data_plan_issue,True
+G056,2636639,@GloCare This is the sub I did (the first one) only to get 1636mb. Please! Whats up.?.?! https://t.co/A50adS4T5F,data_plan_issue,unauthorized_charge_or_vas,False
+G057,1503862,"@GloCare @469054 My data is paused and is on a weekend plan, I want to switch back to my normal data plan . How please?",data_plan_issue,data_plan_issue,True
+G058,2391743,@GloCare @117627 please what is going on ? I'm trying to renew my data bundle and It's not working.  As usual your customer care line never works!!!! Always held up🙄 please can you do something?,data_plan_issue,data_plan_issue,True
+G059,2218206,"@GloCare pls Dear customer, a warm welcome of N200200 Free Airtime is yours. Since o, my normal bonus if I recharge, I nor dey c am again o.. Pls help",bonus_or_promotion_issue,data_plan_issue,False
+G060,834381,"@GloCare please I made a recharge of #1500,yesterday only to see #95 as my balance",recharge_or_airtime_issue,non_actionable_or_context_required,False
+G061,493063,@GloCare @232556 @117627 Good Evening. Please help to scan my line and remove what do deduct my credit. Thank,unauthorized_charge_or_vas,account_or_general_support,False
+G062,1000324,"@GloCare Hello,
+I just cleared my BMC account of #200 but few mins later I was notified again to still be owing.
+Pls can you run a check",recharge_or_airtime_issue,sim_or_device_issue,False
+G063,1884940,@GloCare unable to make calls or send message again. Error response: call drop.Please its becoming annoying complaining everyday.08079053766,voice_or_line_issue,network_issue,False
+G064,445933,"@glocare! Good morning! Want to migrate to call unit of 20/s, what the code pls. Th,ks",voice_or_line_issue,account_or_general_support,False
+G065,2651040,"@GloCare That was the response. Do I have to keep recharging, or what? I don't get it please.",bonus_or_promotion_issue,sim_or_device_issue,False
+G066,1433270,"@GloCare I call 124, still is the same thing. my call can not be completed please contact customer care.",voice_or_line_issue,sim_or_device_issue,False
+G067,469805,@GloCare please Globacom how will i activate my deactivated line ? If i load a Card will it activated ?????,sim_or_device_issue,data_plan_issue,False
+G068,2146010,Dear @GloCare why am I still getting messages from 8888 after I've fully activated DND? Kilode Gan sef😠,unauthorized_charge_or_vas,non_actionable_or_context_required,False
+G069,1553142,@GloCare I wish to why I was deactivated from using the *200# package. I never knew when I stopped from using it,account_or_general_support,sim_or_device_issue,False
+G070,2933831,@GloCare thankz. But dey didn't give me any bonus as i bought new jumbo sim yesterday with #1100 Recharge card.,bonus_or_promotion_issue,sim_or_device_issue,False
+G071,2330344,"@GloCare Hello glo, your I bought your sim, but it charges me me too high almost 30 per minute, airtel charge me less than 8naira per minute, what should I do to get good rate? I can’t deal with this high charge.",voice_or_line_issue,sim_or_device_issue,False
+G072,1043403,"@GloCare, ""Connection problem or invalid mmi code"" is what I see as I tried recharging 08072006674. Is *123*pin# no longer working? Thanks",recharge_or_airtime_issue,unauthorized_charge_or_vas,False
+G073,1862879,"@GloCare Cell no- 07051883771; Location- Surulere, Lagos; Device name- BlackBerry: Device model- Q10; APN- gloflat; username &amp; password-flat",data_issue,network_issue,False
+G074,348309,"@GloCare  I dnt understnd y, after a prper sim reg. I cant retrieve my sim at #Gloword because of 🆔 card despite providing a civil servnt 🆔.",sim_or_device_issue,sim_or_device_issue,True
+G075,395956,"@GloCare 
+Hello, can we plz have some reprieve to network quality in Graceland, Zaria, Kaduna State? 
+It's embarrassingly slow n unstable.",network_issue,network_issue,True
+G076,2247212,"@GloCare URGENT! I have not had network in my house area (somewhere in Rumuodara,PHC) for months. Which kain wahala be this? Once i get back from work i cant call or use data on my Glo line.",network_issue,network_issue,True
+G077,315466,"@GloCare @191307 Is there any 4g site around Egbeda, new Ife road Ibadan?",network_issue,non_actionable_or_context_required,False
+G078,2800841,"@GloCare @117627 
+I load card and subscribed u telling me e never work that all these time am using my money de browse ? i DM u guys ‘ una de do me like hausa girl una no even wan pick my calls 
+No be by force to use Glo oo 
+God punish all of una 🚶🏿✌🏿
+Hi @118424 🤚🏿",data_issue,data_plan_issue,False
+G079,967837,"@GloCare if a friend share his data with me ,does it indirectly means I share mine with him too ?",data_issue,data_plan_issue,False
+G080,658682,How can I have 4095mb of glo data as at 13th November and today 22nd I'm left with only 200mb haba @GloCare which kind 419 be this?,data_issue,data_plan_issue,False
+G081,2945949,"@GloCare that Streaming #YouTube video from 1am-5:30am is it still on ?
+Because I always buy data of #2.5k",data_plan_issue,data_plan_issue,True
+G082,2812719,"@GloCare Yeah, but will the extension retain the unused data and take it over to the next month?",data_plan_issue,data_plan_issue,True
+G083,69361,"@GloCare just bought 1000 data and instead of 3.2gb I saw 1648mb on 07059556635 Wi-Fi modem, what's happening?",data_plan_issue,data_plan_issue,True
+G084,228170,"@GloCare I got a message that I should dial x100x6x1#,hope it wouldn't affect my package of #2500 for 10G data?",data_plan_issue,data_plan_issue,True
+G085,1199678,No glo network since 6pm ...@GloCare what's up?,network_issue,network_issue,True
+G086,1732070,@GloCare good morning.. Why is my GLO network poor??? Since on Friday up till now showing me emergency call only. Pls. 08052515535,network_issue,data_issue,False
+G087,2769400,@GloCare @170399 what sort of network is this? over 7hrs I've been trying to subscribe. network engineers have been working since 6am,data_plan_issue,network_issue,False
+G088,1210497,"@GloCare Network status? Worst! I Just replying 2 days later means, everything was shot down till last night, hope this last past 12 noon.",network_issue,network_issue,True
+G089,1833990,"Am I d only one ""enjoying"" ds very poor network from @117627? So terrible. @GloCare @145585",network_issue,network_issue,True
+G090,1917354,@GloCare I have recharge but can't access my bonuses. Why?,bonus_or_promotion_issue,recharge_or_airtime_issue,False
+G091,469794,"@GloCare i did not apply for any #service. Dear User, your billing for Glo Gamestore has failed due insufficient balance. Please recharge",unauthorized_charge_or_vas,recharge_or_airtime_issue,False
+G092,1894596,@GloCare That's not what I have problem with please. Fix this deductions thing.,unauthorized_charge_or_vas,unauthorized_charge_or_vas,True
+G093,988312,"@GloCare haba, my glo 4g lte wanna kill me this month since i subscribed. It doesnt go again, im tired pls help 😩😭😭😭",data_issue,sim_or_device_issue,False
+G094,883415,@GloCare but one things remains. I am a victim of unsolicited deductions. Please deactivate all deductions on 0815699716,unauthorized_charge_or_vas,network_issue,False
+G095,46773,@GloCare As a matter of fact I didn't download any song So please deactivate any caller tunes and VAS or song as a matter of urgency .thanks,unauthorized_charge_or_vas,non_actionable_or_context_required,False
+G096,2414019,@GloCare Please can i know the meaning of DND list,account_or_general_support,non_actionable_or_context_required,False
+G097,2685770,@GloCare hi would like to deactivate my glo camp-boost plan,data_plan_issue,account_or_general_support,False
+G098,1157088,@GloCare pls i want to remove a no. From glo gifting how do i do that,data_plan_issue,data_plan_issue,True
+G099,33122,"@GloCare please where can I locate glo office near University of Ibadan environs.
+Need to retrieve my lost sim card ASAP. Thanks",sim_or_device_issue,sim_or_device_issue,True
+G100,1123739,"@GloCare I rchrgd N500 wt *323*PIN# bt none of my accts ws credited, made 2 kols to 121 yet not credited abt 7hrs now. 08050597950.",recharge_or_airtime_issue,recharge_or_airtime_issue,True
+G101,2121921,What are the requirements for retrieving a lost sim @GloCare,sim_or_device_issue,sim_or_device_issue,True
+G102,20402,@GloCare *123*pin#,recharge_or_airtime_issue,non_actionable_or_context_required,False
+G103,347136,"@GloCare i went to ur office to change my sim to Nano sim, after presenting my sim n idcard, d lady there said I mst bring an affidavit",sim_or_device_issue,sim_or_device_issue,True
+G104,2717684,"@GloCare I don't have the Sim pack but, I have a valid ID",sim_or_device_issue,sim_or_device_issue,True
+G105,1123768,"@GloCare Please, I want to complain about the poor service in my area. If I put on 3G service it shows emergency calls only.  PLEASE HELP!",network_issue,data_plan_issue,False
+G106,94526,@GloCare Glo charges me 0.24 per secs same network cos I called glo line for 5 secs and was charged 1.2 /5secs =0.24 x60 =N14. 4 per min.,voice_or_line_issue,unauthorized_charge_or_vas,False
+G107,2330459,@GloCare Kindly help deactivate auto renewal on my line. I have tried to do so via text messages it wasn't going. My phone no: 08056341036,data_plan_issue,data_plan_issue,True
+G108,1199689,"@GloCare Your call cannot be completed at the moment, please try again later",voice_or_line_issue,network_issue,False
+G109,2092984,@GloCare pls my line got blocked while trying to input my code,sim_or_device_issue,data_plan_issue,False
+G110,1266230,"@GloCare I don't want messages about recharge to get bonus etc, it comes in every morning and it's really disturbing",unauthorized_charge_or_vas,bonus_or_promotion_issue,False
+G111,1016172,@GloCare I'm having issues recharging my glo line. I need help pls,recharge_or_airtime_issue,data_plan_issue,False
+G112,304494,@GloCare I currently do not have sufficient credit to make the call,voice_or_line_issue,recharge_or_airtime_issue,False
+G113,2330443,"Hello @gloCare 
+I don't receive SMS on my line. Please kindly correct",voice_or_line_issue,non_actionable_or_context_required,False
+G114,1518982,@GloCare please kindly deactivate the Auto borrow me on dis line 07057946656 up,recharge_or_airtime_issue,data_plan_issue,False
+G115,424203,@GloCare @215975 Please unsubscribe entertainment factory on my line 0905 585 8471.,unauthorized_charge_or_vas,account_or_general_support,False
+G116,1632844,@GloCare .THIS is sad cause am thinking of changing my line. not fair . What's happening wit ur network .,network_issue,unauthorized_charge_or_vas,False
+G117,65411,@GloCare u guys wee just be deducting 1s money and if u now call u wee start hearing..u subscribed for certain plans... Issa lie o,unauthorized_charge_or_vas,data_issue,False
+G118,2715647,"@GloCare 3days old sim wit N400, plus bonus and jumbo. Only about 10mins call. No SMS, no internet. Calculate it",sim_or_device_issue,bonus_or_promotion_issue,False
+G119,1855757,"@GloCare seems you guys now run shift with a data service I paid for. At night no network, in the morning it shows face.",data_issue,network_issue,False
+G120,2218246,"@GloCare please guys, data browsing just stopped at egbeda/idimu/ikotun area . Alimosho Lagos. Full network bars but no browsing",data_issue,network_issue,False
+G121,2443697,"@GloCare @700705 @117627 Bukuru, Jos. Loss of signal for &gt;6 hours. Tafawa Balewa, Jos. Loss of Internet service. This happens on a daily actually.",network_issue,network_issue,True
+G122,496739,@GloCare ur data service at Lagos island is terrible. I can't browse since morning,data_issue,data_issue,True
+G123,1389446,@GloCare help me check my line 08058011999 i ave megabyte but i pay for internet from the main acct,data_issue,sim_or_device_issue,False
+G124,2358270,"Good evening guys, so i have been unable to browse properly with my Glo sim since Saturday @GloCare",data_issue,sim_or_device_issue,False
+G125,134239,"@airtel_care @GloCare Pls what is the cheapest data u have because all like other networks like glo, have 1000 for 3.5gb",data_plan_issue,data_plan_issue,True
+G126,445883,"@GloCare pls no Glo network in OKEMESI ekiti,in ekiti west for d past 9days pls,we want to make call and browse ,find sometin do pls",network_issue,data_plan_issue,False
+G127,1931834,@GloCare glo 09054590520. The last time I sub.  The message I received is that my data expires 2018. Why are yiu deducting my money na.,data_plan_issue,data_issue,False
+G128,163952,"@GloCare 09056699203, the closest landmark is Royal glory hotel, kasmo area, Osogbo, Osun State, huwei honor 6, pls boost your browsing network,",network_issue,network_issue,True
+G129,670042,"@GloCare hey,i need help with my subscription...keeps redirecting me to dial *777# to knw more about data plans",data_plan_issue,data_plan_issue,True
+G130,28337,"@GloCare No browsing network for us here, and our data subscription is always like a waste.. 
+U can carry out a survey on this.. Form itoki to ifo",data_issue,network_issue,False
+G131,1881394,"@GloCare your network is a disgrace, embarrassing that I subscribe and can't even use my data",data_issue,data_issue,True
+G132,2167982,The worst network you could ever subscribe to its data is @117627 @GloCare @117626. You have data but you can't browse.,data_issue,data_plan_issue,False
+G133,2695567,"@GloCare pls am currently on #1000 3gb, i heard is now  4gb, hope on my next renewal is 4gb that i’ll see not 3gb as initial.",data_plan_issue,data_plan_issue,True
+G134,360520,@117627 @GloCare if u re having network issues inform ur customers. I thought I ve exhausted my bundle not knowing it's ur incompetence.,network_issue,network_issue,True
+G135,381896,@GloCare  what is the code to stop getting your entertainment subscriptions finally?I send stop to 55357 only to be subscribed back to it.,unauthorized_charge_or_vas,data_plan_issue,False
+G136,209770,"@GloCare I'm talking of combo for international calling for 1000k subscription check d bal for me *777#,#122*1# isn't showing it nr is 07059646781",data_plan_issue,network_issue,False
+G137,49737,@GloCare It's high time you pple should introduce social bundles/plan...,data_plan_issue,non_actionable_or_context_required,False
+,2486781,@GloCare why am I being asked for a court affidavit to retrieve my registered line?,account_or_general_support,sim_or_device_issue,False
+,598439,@GloCare My number is 08118875122,account_or_general_support,voice_or_line_issue,False
+,918858,"@GloCare When i try making calls the operator replies ""I can't call this number "" I can't call any number at all",voice_or_line_issue,voice_or_line_issue,True
+,1371044,@GloCare dailed it and still d same thing here is my number 08074640384,voice_or_line_issue,unauthorized_charge_or_vas,False
+,2054146,"@GloCare The network is so irritating, I think it’s high time to swap the network",sim_or_device_issue,network_issue,False
+,2500307,"@GloCare @7467 @25740 olorunsogo local govt,igbeti Oyo state,data and voice downtime android device",sim_or_device_issue,data_plan_issue,False
+,1825267,@GloCare My credit balance is 100 naira doesn’t show me anything concerning bumpa bonus,bonus_or_promotion_issue,bonus_or_promotion_issue,True
+,2330536,"@GloCare I thought glo infinito, which I'm currently on, also enjoys the 200% bonus? When did that stop?",bonus_or_promotion_issue,data_plan_issue,False
+,2463673,"@GloCare pls de glo mast in agingi rukuba Rd of bassa LGA of plateau state went off  since a week now and de pple of that community have been in suffering. There is no mtn, 9mobile and airtel services there. Due to the recent killings in de region, it is very dangerous to stay",network_issue,network_issue,True
+,539077,"@GloCare @117627 A week now, your network in Iseyin, Oyo State has been ATROCIOUS to put it MILDLY! Disappearing network!!! I guess you just employed Houdini but we subscribers didn't get the memo. Do remember to copy us when it returns! #MediocreGloNetwork @117626",network_issue,network_issue,True
+,2965614,"@GloCare I still can't use the internet o. This is frustrating! 
+😠😤",data_issue,data_issue,True
+,2005903,"@GloCare 08053575663, connection failure, oke-ode, abule-egba, pipeline junction, igoke estate, tecno Y2, can't browse @18561 except  @2688(mile 2)",data_issue,data_issue,True
+,1462270,@GloCare pls u r deducting 50# from my credit on 08112952225 weekly...pls stop wateva dat is making u deduct it pls immediately...,unauthorized_charge_or_vas,unauthorized_charge_or_vas,True
+,1079213,"@GloCare Again where is my N20?? Recharged 3k, you auto renewed a plan I didn't want and my balance mysteriously went down from N2001 to N1981",unauthorized_charge_or_vas,account_or_general_support,False
+,575889,@GloCare Between yesterday and today.... I recharge 500 around after 2,recharge_or_airtime_issue,recharge_or_airtime_issue,True
+,2693389,@GloCare I don't appreciate being ignored and I'm losing my patience. what kind of stupid customer service is this?,non_actionable_or_context_required,sim_or_device_issue,False
+,209853,@GloCare I am sincerely disappointed in glo customer service. Would I have lied on that? Even your colleague earlier confirmed it. Check chat history,non_actionable_or_context_required,network_issue,False
+,160989,@GloCare  I haven't gotten any response please,non_actionable_or_context_required,non_actionable_or_context_required,True
+,9099,@GloCare @117628 @117625 @117626 @117627 @48760 @53205 @7476 This is over 10 times u people have been asking 4my number with conflicting responses frm SO &amp; d likes. 08054117690. U must refund my money.,unauthorized_charge_or_vas,unauthorized_charge_or_vas,True
